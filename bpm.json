@@ -1,5 +1,12 @@
 {
   "scripts": {
     "build": "install.sh"
-  }
+  },
+  "config": [
+    {
+      "name": "test",
+      "description": "Test config",
+      "required": true
+    }
+  ]
 }
