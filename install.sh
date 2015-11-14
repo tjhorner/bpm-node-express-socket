@@ -1,3 +1,5 @@
 #!/bin/bash
-npm install
-echo "done!"
+echo "You should see this"
+echo "after installing"
+
+echo "$HOME"
