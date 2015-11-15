@@ -1,5 +1,3 @@
 #!/bin/bash
-echo "You should see this"
-echo "after installing"
-
-echo "$HOME"
+echo "Installing dependencies (Express and Socket.io)"
+npm install

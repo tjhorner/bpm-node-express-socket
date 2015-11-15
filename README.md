@@ -1,3 +1,7 @@
 # bpm-node-express-socket
 
-test
+`sudo npm install -g bpm-cli`
+
+`bpm add node-express-socket`
+
+`bpm new node-express-socket`

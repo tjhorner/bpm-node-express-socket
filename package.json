@@ -1,0 +1,23 @@
+{
+  "name": "node-express-socket-boilerplate",
+  "version": "0.0.1",
+  "description": "Express + Socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjhorner/bpm-node-express-socket.git"
+  },
+  "author": "You",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tjhorner/bpm-node-express-socket/issues"
+  },
+  "homepage": "https://github.com/tjhorner/bpm-node-express-socket#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "socket.io": "^1.3.7"
+  }
+}
